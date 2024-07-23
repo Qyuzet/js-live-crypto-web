@@ -1,6 +1,6 @@
 # JS Live Crypto Web
 
-This project is a static web page styled to display live cryptocurrency prices for popular coins such as Bitcoin, Ethereum, and Dogecoin. It showcases a modern design for a cryptocurrency exchange platform  [CHECK IT OUT!](https://qyuzet.github.io/js-live-crypto-web)..
+This project is a static web page styled to display live cryptocurrency prices for popular coins such as Bitcoin, Ethereum, and Dogecoin. It showcases a modern design for a cryptocurrency exchange platform  [CHECK IT OUT!](https://qyuzet.github.io/js-live-crypto-web).
 
 ![image](https://github.com/user-attachments/assets/a85f773e-2932-4f85-a3e2-ff2def4a9fcc)
 
