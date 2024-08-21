@@ -9,7 +9,7 @@ This project is a static web page styled to display live cryptocurrency prices f
 ## Features
 
 - **Stylish Design**: A visually appealing layout to represent cryptocurrency prices.
-- **Static Content**: The displayed prices are placeholders as the API key for live updates is not active.
+- **Static Content**: The displayed prices are placeholders as the API key for live updates is not active...
 
 ## Demo
 
